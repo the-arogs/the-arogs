@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @the-arogs
 - 👀 I’m interested in software development
-- 🌱 I’m currently well-versed in NodeJs(Javascript) , Swift, Kotlin, Python
+- 🌱 I’m currently well-versed in NodeJs(Javascript) , Swift
 -    Creating and configuring web servers using ExpressJs.
--    Building mobile applications for iOS and Android using Swift and Kotlin
+-    Building mobile applications for iOS using SwiftUI
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me. tomilsona@yahoo.com
 
